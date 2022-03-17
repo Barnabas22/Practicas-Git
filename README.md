@@ -1,3 +1,3 @@
-#Dioseth Jaime Ruiz Acosta
+# Dioseth Jaime Ruiz Acosta
 
-##Practica de Git con colaboradores
+## Practica de Git con colaboradores
